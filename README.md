@@ -1,6 +1,8 @@
-What I want to learn:
+What i've learnt in git:
 commit
-branching
-merging
+Push
+created a local repository
+created remote repository
+Generated SSH and added to Github
 pull / Push request
-invite peers
+
