@@ -6,3 +6,5 @@ created remote repository
 Generated SSH and added to Github
 pull / Push request
 
+
+I have also learned to make a new branch, make a pull request and push the branch. 
