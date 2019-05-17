@@ -1,0 +1,15 @@
+What i've learnt in git stash:
+
+Stash the changes in a dirty working directory away 
+used command "stach list"
+used command "stash show"
+used command "stash drop"
+used command "stash branch"
+used command "stash pop"
+used command "stash clear"
+used command "stash create"
+used command "stash store"
+
+ 
+
+
