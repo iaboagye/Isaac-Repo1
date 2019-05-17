@@ -5,4 +5,5 @@ created a local repository
 created remote repository
 Generated SSH and added to Github
 pull / Push request
+gitk UI
 
