@@ -1,0 +1,7 @@
+What i've learnt in git stash:
+
+git-stash - Stash the changes in a dirty working directory away
+
+Stash my work with command "git stash save a-test-for-stash"
+
+

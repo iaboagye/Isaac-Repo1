@@ -1,0 +1,6 @@
+What i've learnt in git stash:
+
+Created a branch and changed and add files to your repository
+Stashed all of those changes
+Created a new branch and deleted the old local branch
+Pop all of those changes into your new branch
